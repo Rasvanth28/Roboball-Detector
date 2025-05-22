@@ -12,3 +12,12 @@ Understanding model performance metrics (mAP, box loss, confidence levels)
 Importance of dataset quality and augmentation for better generalization
 Leveraging GPU acceleration for faster training
 🔗 Trained model hosted on Roboflow | Built using Google Colab + Ultralytics YOLOv8
+
+
+# Learning GIT
+
+Never Mind
+
+# Extra
+
+I bought the milk!
